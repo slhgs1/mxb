@@ -1,27 +1,19 @@
 {
-    "name": "Max Böck",
-    "email": "hello@mxb.dev",
+    "name": "Salih Birekul",
+    "email": "salih@salihbirekul.com.tr",
     "avatar": "/assets/images/avatar2.jpg",
     "social": {
         "twitter": {
-            "name": "mxbck",
-            "url": "https://twitter.com/mxbck"
+            "name": "slhgs",
+            "url": "https://twitter.com/slhgs"
         },
         "github": {
-            "name": "maxboeck",
-            "url": "https://github.com/maxboeck"
+            "name": "slhgs",
+            "url": "https://github.com/slhgs"
         },
-        "codepen": {
-            "name": "mxbck",
-            "url": "https://codepen.io/mxbck/"
-        },
-        "notist": {
-            "name": "mxb",
-            "url": "https://noti.st/mxb"
-        },
-        "keybase": {
-            "name": "mxb",
-            "url": "https://keybase.io/mxb"
+        "instagram": {
+            "name": "salihbirekul",
+            "url": "https://instagram.com/salihbirekul"
         }
     }
 }
